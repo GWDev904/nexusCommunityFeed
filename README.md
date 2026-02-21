@@ -4,6 +4,11 @@ A responsive community feed app built with React and Context API. Create posts, 
 
 **[🚀 Live Demo](https://nexus-community-feed.vercel.app/)** &nbsp;|&nbsp; Built by [Garrett Walker](https://github.com/GWDev904)
 
+<br />
+
+![Nexus Community Feed Preview](preview.png)
+
+<br />
 ---
 
 ## Features
