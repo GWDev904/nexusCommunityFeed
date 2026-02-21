@@ -73,4 +73,4 @@ dispatch({ type: "ADD_POST", payload: newPost })
 
 ---
 
-*Part of a 3-project React portfolio. See also: [Focus Task Manager](#) · [Ledger Finance Dashboard](#)*
+*Part of a 3-project React portfolio. See also: [Focus Task Manager](https://focus-task-manager.vercel.app/) · [Ledger Finance Dashboard](https://ledger-finance-dashboard.vercel.app/)*
