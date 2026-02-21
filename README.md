@@ -2,7 +2,7 @@
 
 A responsive community feed app built with React and Context API. Create posts, like content, filter by category, and sort by newest or top — all managed through global state without prop drilling.
 
-**[🚀 Live Demo](https://your-vercel-url.vercel.app)** &nbsp;|&nbsp; Built by [Garrett Walker](https://github.com/GWDev904)
+**[🚀 Live Demo](https://nexus-community-feed.vercel.app/)** &nbsp;|&nbsp; Built by [Garrett Walker](https://github.com/GWDev904)
 
 ---
 
